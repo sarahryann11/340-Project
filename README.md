@@ -1,5 +1,5 @@
 # Final Project for CSCI 340 - Operating Systems at CofC
--------------------------------------------------------
+
 # Instructions
 
 - Download all source code
