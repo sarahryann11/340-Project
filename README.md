@@ -4,10 +4,10 @@
 
 ### Instructions
 
-- Download all source code
-- Run ServerThread.java as application, enter server name, and press enter
+- Download all source code and put in same package
+- Run ServerThread.java as application, enter username, and press enter
   - GUI for server will pop up to await connection from a client
-- Run ClientThread.java as applicaiton, enter client name, and press enter
+- Run ClientThread.java as applicaiton, enter username, and press enter
   - GUI for client will pop up and connect to server
 - Type whatever messages you want between the server and client
 - When ready to exit, type "Bye" to close the connection between server and client
